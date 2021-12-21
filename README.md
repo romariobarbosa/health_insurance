@@ -41,7 +41,7 @@ Este Modelo estará disponível em uma API, podendo ser utilizado pelo cliente a
 
 A API será hospedada na plataforma Heroku e está disponível neste url: https://health-insurance-predition-rbp.herokuapp.com.
 
-# Solution Strategy
+# Estratégia da Solução
 
 Minha estratégia para solucionar este problema foi:
 
